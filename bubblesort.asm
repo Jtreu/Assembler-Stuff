@@ -2,8 +2,6 @@
 ### and sort them in ascending order
 ### bubblesort.asm
 ### Jameson Treu
-### jst86520
-### 700618652
 
 	.text
 
