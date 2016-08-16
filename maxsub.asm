@@ -3,8 +3,6 @@
 ### Output that maximum value
 ### maxsub.asm
 ### Jameson Treu	
-### jst8652	
-### 700618652
 	.text
 ###	$t0 - Number of Numbers
 ###	$t1 - Current address in X 
