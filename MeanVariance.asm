@@ -1,8 +1,5 @@
 ### Jameson Treu
-### jst86520
-### 700618652
 ### MeanVariance Program
-### Assignment a7
 
 	.text
 	
