@@ -1,7 +1,6 @@
 ### Sum integers entered by the user
 ### sum.asm
 ### Jameson Treu
-### 700618652
  
 	.text
 	li $t0,0
